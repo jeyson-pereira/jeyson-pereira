@@ -1,16 +1,29 @@
-### Hi there 👋
+## Hi there 👋 I'm Jeyson Pereira!
 
-<!--
-**jeyson-pereira/jeyson-pereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student of Software Development at [UNIMINUTO]('https://www.uniminuto.edu')
 
-Here are some ideas to get you started:
+I'm from Colombia! 🇨🇴
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A little more about me...
+
+```javascript
+const aboutMe = {
+   code: [JavaScript,  HTML, CSS, Python, Dart, Git, Github],
+   technologies: {
+      frontEnd: {
+         js: ['React', 'Vue'],
+         css: ['Bootstrap']
+      },
+      backEnd: {
+          js: ['Node'],
+          py: ['Django']
+      },
+      databases: ['MongoDB', 'mySQL', 'Oracle'],
+      mobileFrameworks: ['Flutter','React Native']
+   },
+   currentOccupation: ['last year student, open for job opportunities'],
+};
+```
+----------
+
+📛 From [Jeyson Pereira](https://jeyson-pereira.github.io/)
