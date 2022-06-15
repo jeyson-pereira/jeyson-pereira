@@ -1,27 +1,26 @@
 ## Hi there 👋 I'm Jeyson Pereira!
 
-Student of Software Development at [UNIMINUTO]('https://www.uniminuto.edu')
+Software Developer
 
-I'm from Colombia! 🇨🇴
+I'm from Colombia! :colombia:
 
 ### A little more about me...
 
 ```javascript
 const aboutMe = {
-   code: [JavaScript,  HTML, CSS, Python, Dart, Git, Github],
+   code: ['JavaScript', 'HTML', 'CSS', 'Java','Dart', 'Git'],
    technologies: {
       frontEnd: {
-         js: ['React', 'Vue'],
+         js: ['React','Angular', 'Vue'],
          css: ['Bootstrap']
       },
       backEnd: {
           js: ['Node'],
-          py: ['Django']
+          java: ['Spring Boot']
       },
       databases: ['MongoDB', 'mySQL', 'Oracle'],
       mobileFrameworks: ['Flutter','React Native']
-   },
-   currentOccupation: ['last year student, open for job opportunities'],
+   }
 };
 ```
 ----------
